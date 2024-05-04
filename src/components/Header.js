@@ -4,9 +4,6 @@ import {AiOutlineMenu} from "react-icons/ai";
 import {IoClose} from "react-icons/io5";
 export default function Header() {
   
-  function icon(){
-
-  }
   return (
     <>
       <nav className="header">
